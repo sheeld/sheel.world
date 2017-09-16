@@ -1,0 +1,89 @@
+{
+ "name": "Sheel's Computer Skills",
+ "children": [
+  {
+   "name": "Development",
+   "children": [
+    {
+     "name": "FrontEnd / UX / UI",
+     "children": [
+      {"name": "HTML5", "size": 9999},
+      {"name": "Css3", "children": [
+          {"name": "Foundations", "size": 5914},
+          {"name": "Bootstrap", "size": 3416}
+          ]
+          
+      },
+      {"name": "Javascript Es6", "children": [
+          {"name": "D3.js", "size": 5914},
+          {"name": "JQuery", "size": 3416}
+          ]
+      }
+     ]
+    },
+    {
+     "name": "Backend",
+     "children": [
+      {"name": "Node.js", "size": 3534},
+      {"name": "Unix Admin / Cloud", "children": [
+          {"name": "Amazon Web Services", "size": 5914},
+          {"name": "Google Cloud Platform", "size": 3416},
+          {"name": "Digital Ocean", "size": 3416}
+          ]
+      },
+      {"name": "Python", "size": 5731},
+      {"name": "Ruby", "size": 7840},
+      {"name": "C++", "size": 5914},
+      {"name": "Bash/Shell", "size": 3416}
+     ]
+    },
+    {
+     "name": "Database",
+     "children": [
+      {"name": "MongoDB", "size": 7074},
+      {"name": "SQL", "size": 7074},
+      {"name": "FireBase", "size": 7074},
+      {"name": "Redis", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Design",
+   "children": [
+    {
+     "name": "Audio",
+     "children": [
+      {"name": "Sonar", "size": 1983},
+      {"name": "Protools", "size": 2047},
+      {"name": "Ableton Live", "size": 1375},
+      {"name": "Logic", "size": 8746}
+     ]
+    },
+    {
+     "name": "Visual",
+     "children": [
+      {"name": "Photoshop", "size": 1983},
+      {"name": "Illustrator", "size": 2047},
+      {"name": "Premiere Pro", "size": 1375},
+      {"name": "After Effects", "size": 8746},
+      {"name": "Unity", "size": 2202},
+      {"name": "Sketch", "size": 1382},
+      {"name": "Cinema 4D", "size": 1629}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Business",
+   "children": [
+    {"name": "Google Analytics", "size": 1759},
+    {"name": "Google Adwords", "size": 2165},
+    {"name": "Google Adsense", "size": 586},
+    {"name": "SAP ERP", "size": 3331},
+    {"name": "Quickbooks POS", "size": 772},
+    {"name": "SEO", "size": 772}
+   ]
+  }
+ ]
+}
